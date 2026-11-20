@@ -1,16 +1,18 @@
-## Hi there 👋
+### Louis-Jean Viel
 
-<!--
-**ljviel-dev/ljviel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategy & operations on early-stage products. I work between customers and engineers, and when a manual process slows the team down, I build the tool myself with AI coding tools.
 
-Here are some ideas to get you started:
+#### What I built
+- **EMOS CRM** (2026): the internal CRM we used at EMOS to track customers, run prospecting, and turn pilot feedback into product priorities. TypeScript, built with Claude Code and Codex.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Ventures
+- **EMOS**, AI-enabled B2B marketplace for events, built at UC Berkeley (2026). Co-founder, strategy & operations. [Organizer platform](https://emos-org.vercel.app) · [Vendor platform](https://emos-vendors.vercel.app)
+- **AirBridge**, iOS travel copilot that tells travelers when to leave home for their flight (San Francisco, 2026). Co-founder, finance & strategy. [airbridge.live](https://airbridge.live/search)
+
+#### Tools
+Claude Code · Codex · TypeScript · React · Firebase · Vercel · Figma · Notion
+
+#### Why my repositories are private
+Most of them hold real customer data from our pilots. Happy to walk you through the code on a call.
+
+[LinkedIn](https://www.linkedin.com/in/lj-viel/) · lj.viel@berkeley.edu · Nyon, Switzerland
